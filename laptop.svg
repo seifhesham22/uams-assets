@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 223 173" width="223" height="173" preserveAspectRatio="none">
+  <rect x="0" y="0" width="223" height="173" fill="#FBFBFB" />
+  
+  <path d="M0,0 H223 V29 H1 V173 H0 Z M5,4 H219 V25 H5 Z" fill="#B3B3B1" />
+  
+  <rect x="5" y="4" width="214" height="21" fill="#373737" />
+  
+  <rect x="13" y="37" width="197" height="77" fill="#848484" />
+  
+  <rect x="77" y="121" width="69" height="45" fill="#828282" />
+</svg>
